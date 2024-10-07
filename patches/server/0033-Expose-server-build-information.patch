@@ -44,7 +44,7 @@ index 404c2eefa88319e0eaf7b0d1d2696c91dd0e0e0b..e7c00486bd831578008c02fcda13f3a5
 -            "Specification-Vendor" to "Bukkit Team",
 +            "Specification-Vendor" to "Paper Team",
 +            "Brand-Id" to "papermc:paper",
-+            "Brand-Name" to "Paper",
++            "Brand-Name" to "Gemfold",
 +            "Build-Number" to (build ?: ""),
 +            "Build-Time" to Instant.now().toString(),
              "Git-Branch" to gitBranch, // Paper
@@ -460,7 +460,7 @@ index 0000000000000000000000000000000000000000..790bad0494454ca12ee152e3de6da3da
 +    private static final String ATTRIBUTE_GIT_BRANCH = "Git-Branch";
 +    private static final String ATTRIBUTE_GIT_COMMIT = "Git-Commit";
 +
-+    private static final String BRAND_PAPER_NAME = "Paper";
++    private static final String BRAND_PAPER_NAME = "Gemfold";
 +
 +    private static final String BUILD_DEV = "DEV";
 +
